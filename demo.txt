@@ -3,3 +3,6 @@ Blå
 Grön
 Röd
 paprika
+Lila
+gul
+
